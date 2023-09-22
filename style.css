@@ -168,6 +168,13 @@ p.sec-three-quote {
     margin-top: 10px;
 }
 
+.sec-four {
+    display: flex;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
 footer {
     display: flex;
     background-color: #1F2937;
