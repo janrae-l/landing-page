@@ -149,18 +149,20 @@ p .img-text {
     padding: 0 300px 0 300px;
 }
 
-.sec-three-quote {
+p.sec-three-quote {
     
     font-style: italic;
     color: #1F2937;
     font-size: 36px;
     width: 790px;
     align-self: center;
+    margin-bottom: 0;
 }
 
 .author {
-    font-size: 20px;
-    font-style: bold;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: right;
 }
 
 footer {
