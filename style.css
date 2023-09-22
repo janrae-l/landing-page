@@ -146,6 +146,7 @@ p .img-text {
     height: 500px;
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 0 300px 0 300px;
 }
 
@@ -163,6 +164,8 @@ p.sec-three-quote {
     font-size: 24px;
     font-weight: 500;
     text-align: right;
+    width: 750px;
+    margin-top: 10px;
 }
 
 footer {
