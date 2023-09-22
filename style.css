@@ -2,4 +2,37 @@ body {
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
+    margin: 0;
+    
+}
+
+.head {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-between;
+    padding: 12px 100px 12px 100px;
+    color: white;
+}
+
+header {
+    font-weight: 900;
+    font-size: 20px;
+    
+}
+
+.head-links {
+    display: flex;
+    gap: 20px;
+    align-items: baseline;
+    font-size: 18px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
 }
