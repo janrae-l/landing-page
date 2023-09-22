@@ -37,7 +37,7 @@ a {
 
 .container {
     display: flex;
-    flex: 1;
+    flex:1;
     flex-direction: column;
 }
 
@@ -86,6 +86,7 @@ button {
 
 .sec-one-image {
     display: flex;
+    flex: 1;
     justify-content: center;
     align-items: center;
     border: none;
@@ -95,6 +96,48 @@ button {
     width: 580px;
 }
 
+.sec-two {
+    height: 500px;
+}
+
+.sec-two-title {
+    font-size: 36px;
+    color: #1F2937;
+    font-family: 'Roboto', 'sans-serif';
+    font-weight: 600;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    text-align: center;
+    align-items: center;
+}
+
+.info {
+    max-width: 170px;
+}
+
+.stand-in {
+    display: flex;
+    width: 160px;
+    height: 160px;
+    border: 4px #3882E6 solid;
+    border-radius: 16px;
+}
+
+p .img-text {
+    margin: 0;
+}
+
+.img-text {
+    margin-top: 10px;
+    color: #737374;
+    font-size: 18px;
+}
 
 footer {
     display: flex;
