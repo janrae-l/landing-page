@@ -12,3 +12,6 @@ Productivity Icon
 
 Efficiency Icon
 <a href="https://www.flaticon.com/free-icons/productivity" title="productivity icons">Productivity icons created by juicy_fish - Flaticon</a>
+
+Profit Icon
+<a href="https://www.flaticon.com/free-icons/profit" title="profit icons">Profit icons created by Freepik - Flaticon</a>
