@@ -6,3 +6,6 @@ Photo by <a href="https://unsplash.com/@kaitlynbaker?utm_source=unsplash&utm_med
   
 Latency Icon
 <a href="https://www.flaticon.com/free-icons/latency" title="latency icons">Latency icons created by Freepik - Flaticon</a>
+
+Efficiency Icon
+<a href="https://www.flaticon.com/free-icons/productivity" title="productivity icons">Productivity icons created by juicy_fish - Flaticon</a>
