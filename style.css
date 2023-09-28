@@ -4,13 +4,14 @@ body {
     flex-direction: column;
     margin: 0;
     
+    
 }
 
 .head {
     display: flex;
     background-color: #192a40;
     justify-content: space-between;
-    padding: 20px 200px 20px 200px;
+    padding: 20px 300px 20px 300px;
     color: white;
 }
 
@@ -47,7 +48,7 @@ a {
     align-items: center;
     background-color: #192a40;
     height: 500px;
-    padding: 0 200px 0 200px;
+    padding: 0 300px 0 300px;
 
 
 }
@@ -96,7 +97,7 @@ button {
     flex: 1;
     object-fit: cover;
     height: 250px;
-    width: 580px;
+    width: 700px;
 }
 
 .sec-two {
