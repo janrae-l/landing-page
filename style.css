@@ -85,13 +85,16 @@ button {
 }
 
 .sec-one-image {
-    display: flex;
-    flex: 1;
+    
     justify-content: center;
     align-items: center;
-    border: none;
-    background-color: rgb(110, 109, 109);
-    color: white;
+    
+}
+
+.laptop {
+    display: flex;
+    flex: 1;
+    object-fit: cover;
     height: 250px;
     width: 580px;
 }
