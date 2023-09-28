@@ -155,21 +155,21 @@ p .img-text {
 }
 
 p.sec-three-quote {
-    
     font-style: italic;
     color: #1F2937;
     font-size: 36px;
     width: 790px;
-    align-self: center;
-    margin-bottom: 0;
+    margin: 0;
 }
 
-.author {
+p.author {
+    display: flex;
+    justify-content: flex-end;
     font-size: 24px;
     font-weight: 500;
-    text-align: right;
+    
     width: 750px;
-    margin-top: 10px;
+    margin: 0;
 }
 
 .sec-four {
